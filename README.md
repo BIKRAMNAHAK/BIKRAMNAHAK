@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BIKRAMNAHAK
-- 👀 I’m interested in codding
-- 🌱 I’m currently learning javascript fullstrike developer
-- 💞️ I’m looking to collaborate on a it fild
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning javascript fullstack developer
+- 💞️ I’m looking to collabrate on a IT Field
 - 📫 How to reach me ...
 
 <!---
