@@ -23,6 +23,8 @@
 
 ### **Database**  
 - MongoDB  
+### **Basic Knowledge** 
+- DSA (Data Structure & Algorithm)
 
 ### **Tools & Platforms**  
 - Git, GitHub, VS Code  
