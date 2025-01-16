@@ -1,33 +1,48 @@
-**🙋‍♂️ Hi, I'm Bikram Nahak!**
+# 🙋‍♂️ Hi, I'm Bikram Nahak!  
 
-🎯 MERN Stack Developer | 💻 Web Developer | 🌟 Creative Problem Solver
+🎯 **MERN Stack Developer** | 💻 **Web Developer** | 🌟 **Creative Problem Solver**  
 
-**🚀 About Me**
+---
 
-🎓 Bachelor of Arts, Bhanja Bihar University, Berhampur, Odisha (2024)
-🧑‍💻 Completed MERN Stack Developer course from Red & White Multimedia Education, Surat
-💡 Passionate about creating responsive, dynamic, and user-friendly websites
-🌱 Currently improving my skills in Advanced React.js and Backend Optimization
+## 🚀 About Me  
 
-**💻 My Tech Stack Frontend:**
+- 🎓 **Bachelor of Arts**, Bhanja Bihar University, Berhampur, Odisha (2024)  
+- 🧑‍💻 Completed **MERN Stack Developer** course from **Red & White Multimedia Education, Surat**  
+- 💡 Passionate about creating **responsive, dynamic, and user-friendly websites**  
+- 🌱 Currently improving my skills in **Advanced React.js** and **Backend Optimization**  
 
-. HTML, CSS, JavaScript, Bootstrap, React.js, Redux, Media Query, jQuery
-. Backend: Node.js, Express.js
-. Database: MongoDB
-. Tools & Platforms: Git, GitHub, VS Code
+---
 
-**🌟 Achievements**
+## 💻 My Tech Stack  
 
-. Built a responsive blog website using React.js and Bootstrap
-. Developed a portfolio with an admin panel showcasing projects and blogs
-. Successfully implemented CRUD operations and user authentication in various projects
+### **Frontend**  
+- HTML, CSS, JavaScript, Bootstrap, React.js, Redux, Media Query, jQuery  
 
-**🌐 Let's Connect!**
+### **Backend**  
+- Node.js, Express.js  
 
-. LinkedIn: [Bikram Nahak](https://www.linkedin.com/in/bikram-nahak-762328314/)
-. Portfolio: [Your Portfolio Link](https://github.com/BIKRAMNAHAK)
-. Email: bikramnahak9714@gmail.com
-<!---
-BIKRAMNAHAK/BIKRAMNAHAK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### **Database**  
+- MongoDB  
+
+### **Tools & Platforms**  
+- Git, GitHub, VS Code  
+
+---
+
+## 🌟 Achievements  
+
+- 🏆 Built a **responsive blog website** using React.js and Bootstrap  
+- 🚀 Developed a **portfolio with an admin panel** showcasing projects and blogs  
+- 💼 Successfully implemented **CRUD operations** and **user authentication** in various projects  
+
+---
+
+## 🌐 Let's Connect!  
+
+- [LinkedIn: Bikram Nahak](#)  
+- [Portfolio: Your Portfolio Link](#)  
+- 📧 Email: [bikramnahak9714@gmail.com](mailto:bikramnahak9714@gmail.com)  
+
+---
+
+✨ **"Building the future, one line of code at a time!"**
