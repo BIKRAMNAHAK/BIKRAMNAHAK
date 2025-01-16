@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BIKRAMNAHAK
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning javascript fullstack developer
+- 🌱 I’m MERN Stack Developer
 - 💞️ I’m looking to collabrate on a IT Field
 - 📫 How to reach me ...
 
