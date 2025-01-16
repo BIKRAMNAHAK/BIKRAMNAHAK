@@ -15,13 +15,11 @@
 . Tools & Platforms: Git, GitHub, VS Code
 
 **🌟 Achievements**
-
 . Built a responsive blog website using React.js and Bootstrap
 . Developed a portfolio with an admin panel showcasing projects and blogs
 . Successfully implemented CRUD operations and user authentication in various projects
 
 **🌐 Let's Connect!**
-
 . LinkedIn: [Bikram Nahak](https://www.linkedin.com/in/bikram-nahak-762328314/)
 . Portfolio: [Your Portfolio Link](https://github.com/BIKRAMNAHAK)
 . Email: bikramnahak9714@gmail.com
