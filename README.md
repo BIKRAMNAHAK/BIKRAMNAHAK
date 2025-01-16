@@ -39,8 +39,8 @@
 
 ## 🌐 Let's Connect!  
 
-- [LinkedIn: Bikram Nahak](#)  
-- [Portfolio: Your Portfolio Link](#)  
+- [LinkedIn: Bikram Nahak](https://www.linkedin.com/in/bikram-nahak-762328314/)  
+- [Portfolio: Your Portfolio Link](https://github.com/BIKRAMNAHAK)  
 - 📧 Email: [bikramnahak9714@gmail.com](mailto:bikramnahak9714@gmail.com)  
 
 ---
