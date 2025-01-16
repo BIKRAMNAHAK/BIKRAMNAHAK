@@ -3,12 +3,14 @@
 🎯 MERN Stack Developer | 💻 Web Developer | 🌟 Creative Problem Solver
 
 **🚀 About Me**
+
 🎓 Bachelor of Arts, Bhanja Bihar University, Berhampur, Odisha (2024)
 🧑‍💻 Completed MERN Stack Developer course from Red & White Multimedia Education, Surat
 💡 Passionate about creating responsive, dynamic, and user-friendly websites
 🌱 Currently improving my skills in Advanced React.js and Backend Optimization
 
 **💻 My Tech Stack Frontend:**
+
 . HTML, CSS, JavaScript, Bootstrap, React.js, Redux, Media Query, jQuery
 . Backend: Node.js, Express.js
 . Database: MongoDB
