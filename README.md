@@ -1,10 +1,10 @@
 # 🙋‍♂️ Hi, I'm Bikram Nahak!  
 
-🎯 **MERN Stack Developer** | 💻 **Web Developer**  
+🎯 MERN Stack Developer** | 💻  Web Developer 
 
 ---
 
-## 🚀 About Me  
+  🚀 About Me  
 
 - 🎓 **Bachelor of Arts**, Bhanja Bihar University, Berhampur, Odisha (2024)  
 - 🧑‍💻 Completed **MERN Stack Developer** course from **Red & White Multimedia Education, Surat**  
@@ -13,25 +13,24 @@
 
 ---
 
-## 💻 My Tech Stack  
+💻 My Tech Stack  
 
-### **Frontend**  
-- HTML, CSS, JavaScript, Bootstrap, React.js, Redux, Media Query, jQuery  
+ Frontend 
+- HTML, CSS, JavaScript, Bootstrap, React.js, Redux,redux-thunk, jQuery  
 
-### **Backend**  
+Backend
 - Node.js, Express.js  
 
-### **Database**  
-- MongoDB  
-### **Basic Knowledge** 
-- DSA (Data Structure & Algorithm)
+ Database
+- MongoDB
+- PostgreSQl
 
-### **Tools & Platforms**  
+ Tools & Platforms 
 - Git, GitHub, VS Code  
 
 ---
 
-## 🌟 Achievements  
+🌟 Achievements  
 
 - 🏆 Built a **responsive blog website** using React.js and Bootstrap  
 - 🚀 Developed a **portfolio with an admin panel** showcasing projects and blogs  
