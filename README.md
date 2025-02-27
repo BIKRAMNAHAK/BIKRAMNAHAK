@@ -1,6 +1,6 @@
-# 🙋‍♂️ Hi, I'm Bikram Nahak!  
+🙋‍♂️ Hi, I'm Bikram Nahak!  
 
-🎯 MERN Stack Developer** | 💻  Web Developer 
+🎯 MERN Stack Developer | 💻  Web Developer 
 
 ---
 
