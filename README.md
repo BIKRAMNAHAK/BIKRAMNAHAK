@@ -19,11 +19,13 @@
 - HTML, CSS, JavaScript, Bootstrap, React.js, Redux,redux-thunk, jQuery  
 
 Backend
-- Node.js, Express.js  
+- Node.js, 
+- Express.js  
 
  Database
 - MongoDB
 - PostgreSQl
+- MySql
 
  Tools & Platforms 
 - Git, GitHub, VS Code  
